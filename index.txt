@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 it is the first change that I have made
+=======
+this is the second change so far.
+>>>>>>> dashboard
